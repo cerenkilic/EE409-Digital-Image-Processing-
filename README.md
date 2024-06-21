@@ -1,7 +1,7 @@
 # EE409 Digital Image Processing Mini Projects
 This repo includes the homeworks I have done for EE409 course. In this course, we covered many topics that are fundamental to digital image processing and practiced them with mini project assignments using MATLAB.
 
-I have listed the questions and the outputs I obtained in the assignments below:
+I have listed the questions and I obtained in the assignments below:
 ### Plotting the values of a pixel row
 Q: In this part, you
 will plot the values of the pixels in a row you select in your
